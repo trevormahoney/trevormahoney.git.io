@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"exa",
+				"exampleimage"
+			],
+			[
+				"m",
+				"miley"
+			],
+			[
+				"p",
+				"Platinum"
+			],
+			[
+				"cand",
+				"candyBars"
+			],
+			[
+				"vow",
+				"vowelCount"
+			],
+			[
+				"vo",
+				"vowelCount"
+			],
+			[
+				"fav",
+				"favFood"
+			],
+			[
+				"count",
+				"countFive"
+			],
+			[
+				"nam",
+				"nameOfItem"
+			],
+			[
+				"hot",
+				"hotBunsPrice"
+			],
+			[
+				"tot",
+				"totalPrice"
+			],
+			[
+				"ite",
+				"itemTax"
+			],
+			[
+				"mon",
+				"monthlyBills"
+			],
+			[
+				"ex",
+				"expense3"
+			],
+			[
+				"exp",
+				"expense2"
+			],
+			[
+				"div",
+				"divByThree"
+			],
+			[
+				"tota",
+				"totalTax"
+			],
+			[
+				"n",
+				"num2"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"is",
+				"isEmployee"
+			],
+			[
+				"mat",
+				"matchFoundAndClickedYes"
+			],
+			[
+				"ele",
+				"elevatorStuckAndWeOnIt"
+			],
+			[
+				"ev",
+				"elevatorStuckAndWeOnIt"
+			],
+			[
+				"typ",
+				"typeOfSubaru"
+			],
+			[
+				"age",
+				"ageOfCar"
+			],
+			[
+				"t",
+				"typeof"
+			],
+			[
+				"gl",
+				"glassesOfWaterPerDay"
+			],
+			[
+				"max",
+				"maxAge"
+			],
+			[
+				"my",
+				"myAge"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"background-c",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Trevor/Desktop/htmlbasics/Project/store_application.html",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.02_variables.js",
+		"/C/Users/Trevor/Desktop/javascriptlibrary/0.01_object_literals.js",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.01_intgers.js",
+		"/C/Users/Trevor/Desktop/csslibrary/0.01_css_setup.css",
+		"/C/Users/Trevor/Desktop/csslibrary/0.01_css_setup.html",
+		"/C/Users/Trevor/Desktop/htmlbasics/0.08_sections.html",
+		"/C/Users/Trevor/Desktop/htmlbasics/0.07_divs.html",
+		"/C/Users/Trevor/Desktop/htmlbasics/0.06_tables.html",
+		"/C/Users/Trevor/Desktop/htmlbasics/0.05_images.html",
+		"/C/Users/Trevor/Desktop/htmlbasics/0.04_Links.html",
+		"/C/Users/Trevor/Desktop/htmlbasics/0.03_lists.html",
+		"/C/Users/Trevor/Desktop/htmlbasics/0.02_h&p_tags.html",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.16_objects_methods.js",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.16_objects_properties.js",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.15_arrays.js",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.14_for_in_loops.js",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.13_for_loops.js",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.12_other_loops.js",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.11_loops.js",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.11_loops",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.10_scope.js",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.09_functions.js",
+		"/C/Users/Trevor/Desktop/csslibrary/Store Example/index.html",
+		"/C/Users/Trevor/Desktop/csslibrary/Store Example/main.css",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.08_switch.js",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.07_elseif.js",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.06_if_else.js",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.05_if.js",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.04_booleans.js",
+		"/C/Users/Trevor/Desktop/javascriptbasics/0.03_strings.js",
+		"/C/Users/Trevor/Desktop/csslibrary/0.02_css_classes.html",
+		"/C/Users/Trevor/Desktop/csslibrary/0.03_css_ids.html",
+		"/C/Users/Trevor/Desktop/test.js",
+		"/C/Users/Trevor/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/C/Users/Trevor/Desktop/node.js",
+		"/C/Users/Trevor/Desktop/csslibrary/Smile.css",
+		"/C/Users/Trevor/Desktop/csslibrary/Smile.html",
+		"/C/Users/Trevor/Desktop/csslibrary/0.05_shapes.html",
+		"/C/Users/Trevor/Desktop/csslibrary/0.05_shapes.css",
+		"/C/Users/Trevor/Desktop/csslibrary/0.04_css_merginsandpadding.css",
+		"/C/Users/Trevor/Desktop/csslibrary/0.04_css_merginsandpadding.html",
+		"/C/Users/Trevor/Desktop/csslibrary/0.03_css_ids.css",
+		"/C/Users/Trevor/Desktop/csslibrary/0.02_css_classes.css",
+		"/C/Users/Trevor/Desktop/htmlbasics/0.01_css_setup.css",
+		"/C/Users/Trevor/Desktop/htmlbasics/Store_Application.html",
+		"/C/Users/Trevor/Desktop/htmlbasics/0.10_nav_footer.html",
+		"/C/Users/Trevor/Desktop/htmlbasics/0.11_forms.html",
+		"/C/Users/Trevor/Desktop/htmlbasics/0.09_articles_and_headers.html",
+		"/C/Users/Trevor/Desktop/htmlbasics/0.01_helloworld.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			">",
+			"d",
+			"To"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
