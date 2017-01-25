@@ -163,7 +163,8 @@ h6 {
     margin-top: 0;
 }
 #projectImages {
-    border-radius: 7px;
+    border: 1px;
+    picture: 7px;
 }
 #programLang {
     height: 100px;
