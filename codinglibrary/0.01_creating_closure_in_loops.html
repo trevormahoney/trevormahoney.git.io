@@ -1,0 +1,22 @@
+//A common issue with loops is is that closures share the same single environment
+//Take a look at example 1 in both html and js
+
+<!--Example 1: Loops that share the same environment-->
+
+<p id="help">Helpful notes will appear here</p>
+<p>E-mail: <input type="text" id="email" name="email"></p>
+<p>Name: <input type="text" id="name" name="name"></p>
+<p>Age: <input type="text" id="age" name="age"></p>
+
+//The reason this does not work is because the three closures that have been created share the same environement.
+//By the time the callbacks are executed, the loop has run its course and the item variable(which is shared by all three closures) is left pointing to the last entry.
+
+<!--Example 2: Shows how to correct this using more closures-->
+
+//Use the same html code from example 1 for example 2. 
+
+//This calls back what you would expect, 3 different "help" callbacks.  
+
+<!--Example 3: Shows another way of doing this same thing using the more prefered let keyword. 
+
+//Use the same html code from example 1 for example 3.

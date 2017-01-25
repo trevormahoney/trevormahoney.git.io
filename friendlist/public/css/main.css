@@ -1,0 +1,28 @@
+#page {
+	background-color: #93baf9;
+}
+
+p {
+	font-size: 20px;
+}
+
+h1 {
+	color: #ffcece;
+	float: right;
+}
+
+#friends {
+	background-color: #c4d5ff;
+	width: 1100px;
+	border-radius: 5px;
+	padding-left: 10px;
+	list-style: none;
+}
+
+input {
+	border-radius: 5px;
+}
+
+#inputValue {
+	float: right;
+}
